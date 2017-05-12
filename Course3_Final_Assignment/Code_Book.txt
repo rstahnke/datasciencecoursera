@@ -1,0 +1,19 @@
+Code Book
+=================
+
+Data for “mydata.txt” were derived from this publication:
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013. 
+
+The following are variables for the “mydata.txt” data file:
+
+1) subject : the subject number from 1-30 of the individuals tested
+2) label :  the label of the activity that was being performed. There are 6 different possibilities labeled 
+	1.WALKING
+	2 WALKING_UPSTAIRS
+	3 WALKING_DOWNSTAIRS
+	4 SITTING
+	5 STANDING
+	6 LAYING
+3) mean : This is the mean of all the mean measurements from the gyroscope (with units rad/seg) for a particular subject doing a particular activity (as given in the “label” variable). 
+4) stdev : This is the mean of all the stdev measurements from the gyroscope (with units rad/seg)  for a particular subject doing a particular activity (as given in the “label” variable)
+
