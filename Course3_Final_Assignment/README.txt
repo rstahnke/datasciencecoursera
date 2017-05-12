@@ -2,7 +2,7 @@
 Final Assignment Data Set
 =========================
 
-The data set “mydata.txt” was created in R using the commands given in the script “runanalysis.R”. The variables created by the script are described in “Code_Book.txt”.
+The data set "mydata.txt" was created in R using the commands given in the script "runanalysis.R". The variables created by the script are described in "Code_Book.txt".
 
 The data are derived from the following data set:
 
